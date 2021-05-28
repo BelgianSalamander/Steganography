@@ -5,7 +5,7 @@ import getopt, sys, time
 class FinishedReading(Exception):
     pass
 
-def bits_to_image(bit, verbose = False):
+def bits_to_image(bits, verbose = False):
     width = bits_to_int(bits[:16])
     height = bits_to_int(bits[16:32])
     bits_stored = bits_to_int(bits[32:35])
