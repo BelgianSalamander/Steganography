@@ -34,5 +34,5 @@ This script takes only three arguments and only '-f' is required
   - -v : To stop the program from being verbose, use '-v no'
 
 ### Example
-If we run `python read.py -f "concealed_beehive.jpg"` on the image generated in the previous example, we get the following image. Note that this image is of smaller size than the original. This is because the program ahd to shrink it to fit it into the bird image
+If we run `python read.py -f "concealed_beehive.jpg"` on the image generated in the previous example, we get the following image. Note that this image is of smaller size than the original. This is because the program had to shrink it to fit it into the bird image
 ![Revealed Image](assets/steg-out.png)
