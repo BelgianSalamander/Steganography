@@ -16,7 +16,7 @@ The list is as follows:
   - -v : To stop the program from being verbose, use '-v no'
 
 ### Example
-The first image was hidden into the second.
+The second image was hidden into the first.
 
 ![Target Image](assets/bird.jpg) ![Hidden Image](assets/beehive.jpg)
 
