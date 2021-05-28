@@ -23,6 +23,7 @@ The second image was hidden into the first.
 Here is the result
 ![Concealed Image](assets/concealed_beehive.png)
 
+The original and this image are indistinguishable!
 This was generated with `python conceal.py -f "bird.jpg" -h "beehive.jpg"`
 
 ## read.py
